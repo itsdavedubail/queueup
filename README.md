@@ -1,6 +1,6 @@
 # QueueUp
 
-![CI](https://github.com/<your-username>/queueup/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/itsdavedubail/queueup/actions/workflows/ci.yml/badge.svg)
 
 A virtual queue and reservation API, the kind of backend that sits behind "join the line from your phone" at a theme park, a stadium, or a busy restaurant. Guests join a queue, track their position, and reserve time slots, and the system guarantees a slot is never overbooked even when thousands of people tap "reserve" at the same moment.
 
